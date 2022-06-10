@@ -5,7 +5,7 @@ body {
   background-color: rgb(30, 30, 30)!important;
   font-family: "Montserrat Alternates", sans-serif;
 }
-.weatherApp {
+.WeatherApp.container {
   padding-left: 0;
   padding-right: 0;
 }
