@@ -5,7 +5,10 @@ body {
   background-color: rgb(30, 30, 30)!important;
   font-family: "Montserrat Alternates", sans-serif;
 }
-
+.weatherApp {
+  padding-left: 0;
+  padding-right: 0;
+}
 .container {
   border-radius: 25px;
   margin-top: 5px;
